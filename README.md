@@ -1,2 +1,2 @@
-# Super_Store_Sales_Analysis_Power-BI
+# Customer Sales Analysis
 Superstore Sales Analysis Report with Power BI
